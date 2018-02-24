@@ -1,0 +1,3 @@
+git remote add origin git@github.com:wangjiax9/beautifulDay.git
+git remote add origin git@github.com/qq45119626FangZhi/P2PInvest.git
+git remote add origin https://github.com/qq45119626FangZhi/P2PInvest.git
